@@ -1,0 +1,134 @@
+@font-face {
+    font-family: Neon80s;
+    src: url(/luanpozzobon_site/assets/fonts/neon.ttf);
+}
+
+:root {
+    --special-font: Neon80s;
+    --main: rgba(255, 255, 255, 0.75);
+    --comp-color: rgba(0, 255, 255, 0.7);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    color: var(--main);
+    background-color: rgba(0, 0, 0, 0.8);
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+header {
+    padding-bottom: 67.5px;
+    margin-bottom: 75px;
+    background-image: url(/luanpozzobon_site/assets/images/Wall.avif);
+    background-position: center center;
+}
+
+header img {
+    float: left;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 62px;
+    width: 20%;
+}
+
+nav a {
+    font-size: 18px;
+    text-decoration: none;
+    color: var(--main);
+    padding: 10px;
+}
+
+nav a:hover {
+    color: var(--main);
+    text-shadow: 0px 0px 5px var(--comp-color);
+    box-shadow: 1px 1px rgba(51, 51, 51, 0.8);
+    border-radius: 5px;
+}
+
+#neon-sign {
+    width: 100%;
+    margin: 25px auto;
+}
+
+#neon-text {
+    text-align: center;
+    font-family: var(--special-font);
+    font-size: 75px;
+    animation: flicker 15s infinite alternate;
+}
+
+/* Neon Effect */
+@keyframes flicker {
+
+    0%,
+    19.8%,
+    20.2%,
+    20.5%,
+    37%,
+    38%,
+    54.8%,
+    55.2%,
+    71%,
+    71.5%,
+    73%,
+    80%,
+    80.7%,
+    81.7%,
+    90%,
+    91%,
+    100% {
+        color: var(--main);
+        text-shadow:
+            0 0 5px var(--main),
+            0 0 15px var(--comp-color),
+            0 0 30px var(--comp-color);
+    }
+
+    20%,
+    20.4%,
+    37.5%,
+    55%,
+    71.1%,
+    72%,
+    80.5%,
+    81%,
+    90.5% {
+        color: rgba(200, 200, 200, 0.4);
+        text-shadow: none;
+    }
+}
+
+#unimplemented {
+    color: var(--main);
+    text-align: center;
+    font-size: 48px;
+    font-family: Neon80s;
+    animation: glow 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        text-shadow:
+            0 0 5px var(--comp-color),
+            0 0 10px var(--comp-color),
+            0 0 20px var(--comp-color);
+    }
+
+    to {
+        text-shadow:
+            0 0 5px var(--main),
+            0 0 10px var(--comp-color),
+            0 0 50px var(--comp-color),
+            0 0 100px var(--comp-color);
+    }
+}
