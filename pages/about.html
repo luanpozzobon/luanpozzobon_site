@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Luan Pozzobon: About Me</title>
     <link rel="stylesheet" href="/luanpozzobon_site/styles/about.css">
 </head>
+
 <body>
     <header>
-        <a href="/luanpozzobon_site/index.html"><img src="/luanpozzobon_site/assets/images/logo-white.png" height="62px" id="logo" onmouseover="originalLogo()" onmouseout="whiteLogo()"></a>
+        <a href="/luanpozzobon_site/index.html"><img src="/luanpozzobon_site/assets/images/logo-white.png" height="62px"
+                id="logo" onmouseover="originalLogo()" onmouseout="whiteLogo()"></a>
         <nav>
             <a href="/luanpozzobon_site/pages/about.html">About Me</a>
             <a href="/luanpozzobon_site/pages/projects.html">Projects</a>
@@ -18,8 +21,53 @@
         </div>
     </header>
     <main>
-        <p id="unimplemented">WHAT ARE YOU DOING HERE SO EARLY? THIS SECTION IS NOT OPENED YET! COME BACK LATER!</p>
+        <p>Hmm... Hi... You came? Let's start then. I'm kinda nervous, you know. I mean no one's ever came here before.
+            I don't really know how to act!</p>
+        <p>Ok... Where do I begin? Right... See those signs below? You can grab them and find out more! Now I'll have to leave you. You know, a lot of things to do!</p>
+        <section id="aboutme">
+            <div id="about1" class="info" onclick="select(this)">
+                <img src="/luanpozzobon_site/assets/images/aboutme/whoamI.png">
+                <p>Who am I?</p><br>
+                <p id="content">My name is Luan Rafael Pozzobon, but you can call me just Luan, or whatever you want!
+                    I was born in November 11<sup>th</sup>, 2004, in Curitiba PR, BRAZIL, where I
+                    still live. Currently I am pursuing a Bachelor's degree in Computer Science. Also, since the
+                    beggining of the college I'm doing some online courses, and a little later started to build some
+                    personal projects, if you want to see some of them, please visit my <a
+                        href="/luanpozzobon_site/pages/projects.html">projects page.</a></p>
+            </div>
+            <div id="about2" class="info" onclick="select(this)">
+                <img src="/luanpozzobon_site/assets/images/aboutme/whythis.png">
+                <p>Why Tech?</p><br>
+                <p id="content">I used to like gaming, and always looked at tech, and really liked it. I also used to
+                    like math and physics. As I started college I've been looking more to the development area, with a
+                    bigger focus in Backend, this site is actually one of my first adventures with Frontend.</p>
+            </div>
+            <div id="about3" class="info" onclick="select(this)">
+                <img src="/luanpozzobon_site/assets/images/aboutme/looking.png">
+                <p>What am I looking for?</p>
+                <p id="content">At this moment I'm looking for my graduation, and also trying to find a internship or a
+                    job opportunity. Looking a little forward, I want to try on different areas, most on development
+                    area, as GameDev, Fullstack, and even approach more to Cybersec. And for the bigger timeline, I want
+                    to become a great person in this area, and make big things, build tools to help the humanity.</p>
+            </div>
+            <div id="about4" class="info" onclick="select(this)">
+                <img src="/luanpozzobon_site/assets/images/aboutme/findme.png">
+                <p>Find Me At</p><br>
+                <p id="content">You can reach me at:<br>
+                    <a href="https://github.com/luanpozzobon">Github</a> |
+                    <a href="https://www.linkedin.com/in/luanpozzobon/">Linkedin</a> |
+                    <a href="mailto:luanpozzobon@gmail.com">Email me</a><br>
+                    And if you read all this, let me know, and if you liked me, maybe you can hire me! Just joking.
+                    <small>Not really.</small>
+                </p>
+            </div>
+        </section>
     </main>
+    <footer>
+        <p>All the icons used on this page were taken from: <a target="_blank" href="https://icons8.com" rel="noopener">Icons8</a></p>
+    </footer>
 </body>
 <script src="/luanpozzobon_site/scripts/logo.js"></script>
+<script src="/luanpozzobon_site/scripts/about.js"></script>
+
 </html>

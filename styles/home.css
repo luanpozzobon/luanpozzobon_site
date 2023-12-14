@@ -9,19 +9,20 @@ main {
 }
 
 #main-content {
-    width: calc(60% - 60px);
+    width: calc(60% - 65px);
     margin: 25px;
+
 }
 
 #main-content p {
-    text-align: justify;
+    text-align: center;
     padding-bottom: 20px;
-}
 
+}
 
 #main-content a {
     text-decoration: none;
-    color: var(--main);
+    color: var(--font-color);
 }
 
 #techstack {
@@ -40,15 +41,16 @@ main {
     margin: 20px;
     text-align: center;
     flex-basis: 100px;
+    box-shadow: 2px -2px 7px rgba(50, 50, 50, 0.6);
     transition: 1250ms;
 }
 
 #techstack div:hover {
     background-color: rgba(200, 200, 200, 0.4);
-    border: 1px solid var(--main);
+    border: 1px solid var(--font-color);
     box-shadow: 
-        0 0 5px var(--comp-color),
-        0 0 10px var(--comp-color),
-        0 0 20px var(--comp-color);
+        0px 0px 5px var(--comp-color),
+        0px 0px 10px var(--comp-color),
+        0px 0px 20px var(--comp-color);
     transition: 1250ms;
 }

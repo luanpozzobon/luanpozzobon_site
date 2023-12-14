@@ -5,19 +5,21 @@
 
 :root {
     --special-font: Neon80s;
-    --main: rgba(255, 255, 255, 0.75);
+    --font-color: rgba(255, 255, 255, 0.75);
+    --bg-color: rgba(0, 0, 0, 0.8);
     --comp-color: rgba(0, 255, 255, 0.7);
 }
 
 * {
     padding: 0;
     margin: 0;
+    overflow-x: hidden;
 }
 
 html,
 body {
-    color: var(--main);
-    background-color: rgba(0, 0, 0, 0.8);
+    color: var(--font-color);
+    background-color: var(--bg-color);
     min-width: 100vw;
     min-height: 100vh;
 }
@@ -44,12 +46,12 @@ header nav {
 nav a {
     font-size: 18px;
     text-decoration: none;
-    color: var(--main);
+    color: var(--font-color);
     padding: 10px;
 }
 
 nav a:hover {
-    color: var(--main);
+    color: var(--font-color);
     text-shadow: 0px 0px 5px var(--comp-color);
     box-shadow: 1px 1px rgba(51, 51, 51, 0.8);
     border-radius: 5px;
@@ -87,9 +89,9 @@ nav a:hover {
     90%,
     91%,
     100% {
-        color: var(--main);
+        color: var(--font-color);
         text-shadow:
-            0 0 5px var(--main),
+            0 0 5px var(--font-color),
             0 0 15px var(--comp-color),
             0 0 30px var(--comp-color);
     }
@@ -109,7 +111,7 @@ nav a:hover {
 }
 
 #unimplemented {
-    color: var(--main);
+    color: var(--font-color);
     text-align: center;
     font-size: 48px;
     font-family: Neon80s;
@@ -126,9 +128,13 @@ nav a:hover {
 
     to {
         text-shadow:
-            0 0 5px var(--main),
+            0 0 5px var(--font-color),
             0 0 10px var(--comp-color),
             0 0 50px var(--comp-color),
             0 0 100px var(--comp-color);
     }
+}
+
+#unimplemented a {
+    color: var(--font-color);
 }
