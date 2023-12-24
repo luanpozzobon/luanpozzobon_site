@@ -1,1 +1,40 @@
 @import url("/luanpozzobon_site/styles/style.css");
+
+.project-link {
+    text-decoration: none;
+    color: var(--font-color);
+}
+
+.projects {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px auto;
+    width: 80%;
+    align-items: center;
+    justify-content: space-between;
+    
+    display: flex;
+    flex-wrap: wrap;
+    transition: 0.4s;
+}
+
+.projects h2 {
+    flex-basis: 100%;
+}
+
+.projects p {
+    flex-basis: 60%;
+}
+
+.projects img {
+    flex-basis: 30%;
+    width: 500px;
+}
+
+.projects:hover {
+    transform: scale(1.01);
+    border: 1px solid var(--comp-color);
+    box-shadow: 
+        inset 0px 0px 10px var(--comp-color);
+}

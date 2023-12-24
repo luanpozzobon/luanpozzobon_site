@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="94.169975mm"
+   height="87.514633mm"
+   viewBox="0 0 94.169975 87.514633"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="MoonVs-Conceito1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.76702441"
+     inkscape:cx="410.02606"
+     inkscape:cy="562.56358"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00" />
+  <defs
+     id="defs1">
+    <filter
+       y="-0.89196518"
+       height="2.7839304"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter141"
+       x="-1.0215745"
+       width="3.0431491">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur140" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite140" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite141" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix141" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend141" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.085683,-115.12805)">
+    <g
+       id="g140"
+       transform="translate(0,7.9375004)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="53.953152"
+         y="123.53683"
+         id="text10-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan10-0-7"
+           style="stroke:none;stroke-width:0.264583"
+           x="53.953152"
+           y="123.53683">M</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="108.72937"
+         y="123.33218"
+         id="text11-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan11-6-6"
+           style="stroke:none;stroke-width:0.264583"
+           x="108.72937"
+           y="123.33218">nVs</tspan></text>
+      <g
+         id="g139">
+        <ellipse
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.187765;stroke-opacity:1"
+           id="path12-6"
+           cx="37.854641"
+           cy="116.71127"
+           rx="10.902318"
+           ry="6.726481"
+           transform="translate(55.461085,-1.2855782)" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.173745;stroke-opacity:1"
+           id="path12-6-3"
+           cx="91.748436"
+           cy="115.4257"
+           rx="9.3350258"
+           ry="6.726481" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="53.953152"
+       y="161.06903"
+       id="text10-0-6-5"><tspan
+         sodipodi:role="line"
+         id="tspan10-0-7-3"
+         style="stroke:none;stroke-width:0.264583"
+         x="53.953152"
+         y="161.06903">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="108.72939"
+       y="160.8644"
+       id="text11-0-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan11-6-6-0"
+         style="stroke:none;stroke-width:0.264583"
+         x="108.72939"
+         y="160.8644">nVs</tspan></text>
+    <path
+       id="path12-6-4"
+       style="fill:#ffffff;stroke-width:0.187765"
+       d="m 93.31561,146.23118 a 10.902318,6.726481 0 0 0 -0.844393,0.0341 9.3350258,6.726481 0 0 1 8.612393,6.69261 9.3350258,6.726481 0 0 1 -8.4739,6.69778 10.902318,6.726481 0 0 0 0.7059,0.0289 10.902318,6.726481 0 0 0 10.90218,-6.72672 10.902318,6.726481 0 0 0 -10.90218,-6.72672 z" />
+    <g
+       id="g153">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="53.614395"
+         y="192.02713"
+         id="text10-0-6-5-1"><tspan
+           sodipodi:role="line"
+           id="tspan10-0-7-3-1"
+           style="stroke:none;stroke-width:0.264583"
+           x="53.614395"
+           y="192.02713">M</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="108.39062"
+         y="191.82249"
+         id="text11-0-6-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan11-6-6-0-9"
+           style="fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="108.39062"
+           y="191.82249">nVs</tspan></text>
+      <path
+         id="path12-6-4-8"
+         style="fill:#ffffff;stroke-width:0.187765;filter:url(#filter141)"
+         d="m 93.50602,177.18928 a 10.902318,6.726481 0 0 0 -0.844393,0.0341 9.3350258,6.726481 0 0 1 8.612403,6.69261 9.3350258,6.726481 0 0 1 -8.47391,6.69778 10.902318,6.726481 0 0 0 0.7059,0.0289 10.902318,6.726481 0 0 0 10.90218,-6.72672 10.902318,6.726481 0 0 0 -10.90218,-6.72672 z" />
+      <path
+         id="path33"
+         style="fill:#ffffff;stroke-width:0.187765"
+         d="m 90.334604,190.64262 a 10.902318,6.726481 0 0 0 0.84439,-0.0341 9.3350258,6.726481 0 0 1 -8.61239,-6.69261 9.3350258,6.726481 0 0 1 8.4739,-6.69778 10.902318,6.726481 0 0 0 -0.7059,-0.0289 10.902318,6.726481 0 0 0 -10.90215,6.72672 10.902318,6.726481 0 0 0 10.90215,6.72672 z" />
+    </g>
+  </g>
+</svg>

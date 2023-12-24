@@ -1,0 +1,23 @@
+.versions {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.versions div {
+    flex-basis: 60%;
+}
+
+.versions img, .imgs {
+    flex-basis: auto;
+    max-width: 400px;
+}
+
+.final {
+    margin-right: 10px;
+}
+
+.white {
+    background-color: white;
+}

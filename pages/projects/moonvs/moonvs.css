@@ -1,0 +1,49 @@
+@import url("/luanpozzobon_site/styles/style.css");
+
+header {
+    background-color: var(--bg-color);
+    background-image: none;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+main {
+    margin: auto;
+    width: 80%;
+}
+
+span {
+    display: inline-block;
+    padding: 3px 5px 3px 5px;
+    margin: 2px 4px 2px 0px;
+    border-radius: 5px;
+    transition: 0.2s;
+}
+
+span:hover {
+    cursor: pointer;
+    transform: scale(1.03);
+    border-bottom: 3px solid var(--font-color);
+}
+
+span.selected {
+    transform: scale(1.03);
+    border-bottom: 3px solid var(--comp-color);
+}
+
+div.unselected {
+    display: none;
+}
+
+h1, h2 {
+    padding: 20px 0;
+}
+
+p {
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+a {
+    color: white;
+}

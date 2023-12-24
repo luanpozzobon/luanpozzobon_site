@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115.71382mm"
+   height="70.120422mm"
+   viewBox="0 0 115.71382 70.120422"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="MoonVs-Conceito-Final.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="309.71277"
+     inkscape:cy="340.82547"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient36"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1;"
+         offset="0"
+         id="stop36" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop35" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient34"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1;"
+         offset="0"
+         id="stop34" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop33" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter106"
+       x="-0.52593702"
+       y="-0.31999744"
+       width="2.051874"
+       height="1.6399949">
+      <feGaussianBlur
+         stdDeviation="2 2"
+         result="blur"
+         id="feGaussianBlur106" />
+    </filter>
+    <linearGradient
+       id="linearGradient106"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop106" />
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1;"
+         offset="1"
+         id="stop107" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient1"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient2"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36"
+       id="linearGradient32"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient34"
+       id="linearGradient33"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.146344,0.00567954)">
+    <g
+       id="MoonVs-White"
+       inkscape:export-filename="Codes\luanpozzobon_site\pages\projects\moonvs\assets\logo-versions\FinalVersion.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(1.0009471,0,0,1.0217642,-2.5258771,-55.74006)"
+       inkscape:label="MoonVs-White">
+      <title
+         id="title19">MoonVs-White</title>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.198061"
+         id="rect1-7"
+         width="115.60433"
+         height="32.368443"
+         x="49.625221"
+         y="90.80558"
+         inkscape:label="Fundo Branco" />
+      <g
+         id="g22"
+         transform="translate(-3.853088,-16.644238)"
+         inkscape:label="Texto2"
+         inkscape:export-filename="Logo-Branco.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <title
+           id="title20">Texto2</title>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.97993"
+           y="131.67284"
+           id="text21"
+           inkscape:label="Sombra"><title
+             id="title21">Sombra</title><tspan
+             sodipodi:role="line"
+             id="tspan21"
+             style="fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583"
+             x="120.97993"
+             y="131.67284">nVs</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#e1e1e1;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.45076"
+           y="131.14368"
+           id="text22"
+           inkscape:label="Texto"><title
+             id="title22">Texto</title><tspan
+             sodipodi:role="line"
+             id="tspan22"
+             style="fill:#e1e1e1;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="120.45076"
+             y="131.14368">nVs</tspan></text>
+      </g>
+      <g
+         id="g25"
+         transform="translate(7.7412882,-34.635913)"
+         inkscape:label="Lua">
+        <title
+           id="title23">Lua</title>
+        <path
+           id="path24"
+           style="fill:#000000;fill-opacity:0.296073;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z"
+           inkscape:label="Brilho">
+          <title
+             id="title24">Brilho</title>
+        </path>
+        <path
+           id="path25"
+           style="mix-blend-mode:normal;fill:url(#linearGradient32);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z"
+           inkscape:label="Lua">
+          <title
+             id="title25">Lua</title>
+        </path>
+      </g>
+      <g
+         id="g28"
+         transform="translate(-8.7931988,-34.635913)"
+         inkscape:label="Lua">
+        <title
+           id="title26">Lua</title>
+        <path
+           id="path27"
+           style="fill:#000000;fill-opacity:0.296073;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z"
+           inkscape:label="Brilho">
+          <title
+             id="title27">Brilho</title>
+        </path>
+        <path
+           id="path28"
+           style="mix-blend-mode:normal;fill:url(#linearGradient33);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z"
+           inkscape:label="Lua">
+          <title
+             id="title28">Lua</title>
+        </path>
+      </g>
+      <g
+         id="g31"
+         transform="translate(-10.732256,-16.644236)"
+         inkscape:label="Texto1">
+        <title
+           id="title29">Texto1</title>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="66.203712"
+           y="131.87747"
+           id="text30"
+           inkscape:label="Sombra"><title
+             id="title30">Sombra</title><tspan
+             sodipodi:role="line"
+             id="tspan30"
+             style="fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583"
+             x="66.203712"
+             y="131.87747">M</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="65.674545"
+           y="131.34831"
+           id="text31"
+           inkscape:label="Texto"><title
+             id="title31">Texto</title><tspan
+             sodipodi:role="line"
+             id="tspan31"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="65.674545"
+             y="131.34831">M</tspan></text>
+      </g>
+    </g>
+    <g
+       id="MoonVs-Black"
+       inkscape:export-filename="Codes\MoonVs\web\assets\images\logos\Logo-Black.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(1.0009471,0,0,1.0217589,-2.5258771,-92.252083)"
+       inkscape:label="MoonVs-Black">
+      <title
+         id="title5">MoonVs-Black</title>
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.198061"
+         id="rect1"
+         width="115.60432"
+         height="32.36861"
+         x="49.625221"
+         y="90.281967"
+         inkscape:label="Fundo Preto" />
+      <g
+         id="g94"
+         transform="translate(-3.853088,-16.644238)"
+         inkscape:label="Texto2">
+        <title
+           id="title15">Texto2</title>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.97993"
+           y="131.67284"
+           id="text93"
+           inkscape:label="Sombra"><title
+             id="title18">Sombra</title><tspan
+             sodipodi:role="line"
+             id="tspan93"
+             style="fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:0.264583"
+             x="120.97993"
+             y="131.67284">nVs</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.45076"
+           y="131.14368"
+           id="text94"
+           inkscape:label="Texto"><title
+             id="title16">Texto</title><tspan
+             sodipodi:role="line"
+             id="tspan94"
+             style="fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="120.45076"
+             y="131.14368">nVs</tspan></text>
+      </g>
+      <g
+         id="g109"
+         transform="translate(7.7412882,-34.635913)"
+         inkscape:label="Lua">
+        <title
+           id="title12">Lua</title>
+        <path
+           id="path108"
+           style="fill:#ffffff;fill-opacity:0.804469;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z"
+           inkscape:label="Brilho">
+          <title
+             id="title14">Brilho</title>
+        </path>
+        <path
+           id="path109"
+           style="mix-blend-mode:normal;fill:url(#linearGradient2);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z"
+           inkscape:label="Lua">
+          <title
+             id="title13">Lua</title>
+        </path>
+      </g>
+      <g
+         id="Lua"
+         transform="translate(-8.7931988,-34.635913)"
+         inkscape:label="Lua">
+        <title
+           id="title9">Lua</title>
+        <path
+           id="Brilho"
+           style="fill:#ffffff;fill-opacity:0.801676;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z"
+           inkscape:label="Brilho">
+          <title
+             id="title11">Brilho</title>
+        </path>
+        <path
+           id="path91"
+           style="mix-blend-mode:normal;fill:url(#linearGradient1);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z"
+           inkscape:label="Lua">
+          <title
+             id="title10">Lua</title>
+        </path>
+      </g>
+      <g
+         id="Texto1"
+         transform="translate(-10.732256,-16.644236)"
+         inkscape:label="Texto1">
+        <title
+           id="title6">Texto1</title>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="66.203712"
+           y="131.87747"
+           id="Sombra"
+           inkscape:label="Sombra"><title
+             id="title8">Sombra</title><tspan
+             sodipodi:role="line"
+             id="tspan95"
+             style="fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583"
+             x="66.203712"
+             y="131.87747">M</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="65.674545"
+           y="131.34831"
+           id="Texto"
+           inkscape:label="Texto"><title
+             id="title7">Texto</title><tspan
+             sodipodi:role="line"
+             id="tspan96"
+             style="stroke:none;stroke-width:0.264583"
+             x="65.674545"
+             y="131.34831">M</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="101.23953mm"
+   height="52.645973mm"
+   viewBox="0 0 101.23953 52.645973"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="MoonVs-Conceito2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#ffffff00"
+     inkscape:zoom="0.54236816"
+     inkscape:cx="-139.20434"
+     inkscape:cy="441.58197"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient106"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop106" />
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1;"
+         offset="1"
+         id="stop107" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter106"
+       x="-0.52593702"
+       y="-0.31999744"
+       width="2.051874"
+       height="1.6399949">
+      <feGaussianBlur
+         stdDeviation="2 2"
+         result="blur"
+         id="feGaussianBlur106" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient107"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient109"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient119"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient120"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient134"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient106"
+       id="linearGradient135"
+       gradientUnits="userSpaceOnUse"
+       x1="92.648781"
+       y1="141.49344"
+       x2="101.77535"
+       y2="141.49344" />
+    <filter
+       y="-1.119991"
+       height="3.2399821"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter136"
+       x="-1.8407796"
+       width="4.681559">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="result6"
+         id="feGaussianBlur135" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite135" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite136" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix136" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend136" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.413579,-94.557462)">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.400445;stroke-opacity:1"
+       id="rect1"
+       width="208.73"
+       height="296.10739"
+       x="0.5853526"
+       y="0.47975057" />
+    <g
+       id="g113"
+       inkscape:export-filename="teste8.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g108"
+         transform="translate(-8.7931988,-34.635913)">
+        <path
+           id="path106"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+        <path
+           id="path91"
+           style="mix-blend-mode:normal;fill:url(#linearGradient107);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+      </g>
+      <g
+         id="g94"
+         transform="translate(-3.853088,-16.644238)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.97993"
+           y="131.67284"
+           id="text93"><tspan
+             sodipodi:role="line"
+             id="tspan93"
+             style="fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:0.264583"
+             x="120.97993"
+             y="131.67284">nVs</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.45076"
+           y="131.14368"
+           id="text94"><tspan
+             sodipodi:role="line"
+             id="tspan94"
+             style="fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="120.45076"
+             y="131.14368">nVs</tspan></text>
+      </g>
+      <g
+         id="g96"
+         transform="translate(-10.732255,-16.644235)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="66.203712"
+           y="131.87747"
+           id="text95"><tspan
+             sodipodi:role="line"
+             id="tspan95"
+             style="fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583"
+             x="66.203712"
+             y="131.87747">M</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="65.674545"
+           y="131.34831"
+           id="text96"><tspan
+             sodipodi:role="line"
+             id="tspan96"
+             style="stroke:none;stroke-width:0.264583"
+             x="65.674545"
+             y="131.34831">M</tspan></text>
+      </g>
+      <g
+         id="g109"
+         transform="translate(7.7412882,-34.635913)">
+        <path
+           id="path108"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+        <path
+           id="path109"
+           style="mix-blend-mode:normal;fill:url(#linearGradient109);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+      </g>
+    </g>
+    <g
+       id="g119"
+       inkscape:export-filename="teste9.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0,28.045845)">
+      <g
+         id="g114"
+         transform="translate(-8.7931988,-34.635913)">
+        <path
+           id="path113"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+        <path
+           id="path114"
+           style="mix-blend-mode:normal;fill:url(#linearGradient119);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+      </g>
+      <g
+         id="g115"
+         transform="translate(-3.853088,-16.644238)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.97993"
+           y="131.67284"
+           id="text114"><tspan
+             sodipodi:role="line"
+             id="tspan114"
+             style="fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:0.264583"
+             x="120.97993"
+             y="131.67284">nVs</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.45076"
+           y="131.14368"
+           id="text115"><tspan
+             sodipodi:role="line"
+             id="tspan115"
+             style="fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="120.45076"
+             y="131.14368">nVs</tspan></text>
+      </g>
+      <g
+         id="g117"
+         transform="translate(-10.732255,-16.644235)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="66.203712"
+           y="131.87747"
+           id="text116"><tspan
+             sodipodi:role="line"
+             id="tspan116"
+             style="fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583"
+             x="66.203712"
+             y="131.87747">M</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="65.674545"
+           y="131.34831"
+           id="text117"><tspan
+             sodipodi:role="line"
+             id="tspan117"
+             style="stroke:none;stroke-width:0.264583"
+             x="65.674545"
+             y="131.34831">M</tspan></text>
+      </g>
+      <g
+         id="g118"
+         transform="matrix(-1,0,0,1,202.16542,-34.635913)">
+        <path
+           id="path117"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+        <path
+           id="path118"
+           style="mix-blend-mode:normal;fill:url(#linearGradient120);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+      </g>
+    </g>
+    <g
+       id="g126"
+       inkscape:export-filename="teste10.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0,54.504195)">
+      <g
+         id="g121"
+         transform="translate(-8.7931988,-34.635913)">
+        <path
+           id="path120"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+        <path
+           id="path121"
+           style="mix-blend-mode:normal;fill:url(#linearGradient134);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+      </g>
+      <g
+         id="g122"
+         transform="translate(-3.853088,-16.644238)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.97993"
+           y="131.67284"
+           id="text121"><tspan
+             sodipodi:role="line"
+             id="tspan121"
+             style="fill:#ffffff;fill-opacity:0.3;stroke:none;stroke-width:0.264583"
+             x="120.97993"
+             y="131.67284">nVs</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="120.45076"
+           y="131.14368"
+           id="text122"><tspan
+             sodipodi:role="line"
+             id="tspan122"
+             style="fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="120.45076"
+             y="131.14368">nVs</tspan></text>
+      </g>
+      <g
+         id="g124"
+         transform="translate(-10.732255,-16.644235)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="66.203712"
+           y="131.87747"
+           id="text123"><tspan
+             sodipodi:role="line"
+             id="tspan123"
+             style="fill:#4b4b4b;fill-opacity:0.75;stroke:none;stroke-width:0.264583"
+             x="66.203712"
+             y="131.87747">M</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Bell MT';-inkscape-font-specification:'Bell MT';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="65.674545"
+           y="131.34831"
+           id="text124"><tspan
+             sodipodi:role="line"
+             id="tspan124"
+             style="stroke:none;stroke-width:0.264583"
+             x="65.674545"
+             y="131.34831">M</tspan></text>
+      </g>
+      <g
+         id="g125"
+         transform="translate(7.7412882,-34.635913)"
+         style="filter:url(#filter136)">
+        <path
+           id="path124"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1;filter:url(#filter106)"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+        <path
+           id="path125"
+           style="mix-blend-mode:normal;fill:url(#linearGradient135);fill-rule:nonzero;stroke:none;stroke-width:0.142548;stroke-opacity:1"
+           d="m 100.14858,133.99338 a 7.5,7.5 0 0 0 -7.499798,7.50032 7.5,7.5 0 0 0 7.499798,7.4998 7.5,7.5 0 0 0 1.5875,-0.18913 7.5,7.5 0 0 1 -5.912298,-7.31067 7.5,7.5 0 0 1 5.951568,-7.31945 7.5,7.5 0 0 0 -1.62677,-0.18087 z" />
+      </g>
+    </g>
+  </g>
+</svg>
