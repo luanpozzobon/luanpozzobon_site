@@ -10,18 +10,15 @@
     --comp-color: rgba(0, 255, 255, 0.7);
 }
 
-* {
-    padding: 0;
-    margin: 0;
-    overflow-x: hidden;
-}
-
 html,
 body {
     color: var(--font-color);
     background-color: var(--bg-color);
+    margin: 0px;
+    padding: 0px;
     min-width: 100vw;
     min-height: 100vh;
+    overflow-x: hidden;
 }
 
 header {
@@ -108,33 +105,4 @@ nav a:hover {
         color: rgba(200, 200, 200, 0.4);
         text-shadow: none;
     }
-}
-
-#unimplemented {
-    color: var(--font-color);
-    text-align: center;
-    font-size: 48px;
-    font-family: Neon80s;
-    animation: glow 2s ease-in-out infinite alternate;
-}
-
-@keyframes glow {
-    from {
-        text-shadow:
-            0 0 5px var(--comp-color),
-            0 0 10px var(--comp-color),
-            0 0 20px var(--comp-color);
-    }
-
-    to {
-        text-shadow:
-            0 0 5px var(--font-color),
-            0 0 10px var(--comp-color),
-            0 0 50px var(--comp-color),
-            0 0 100px var(--comp-color);
-    }
-}
-
-#unimplemented a {
-    color: var(--font-color);
 }
