@@ -31,10 +31,6 @@ span.selected {
     border-bottom: 3px solid var(--comp-color);
 }
 
-div.unselected {
-    display: none;
-}
-
 h1, h2 {
     padding: 10px 0;
 }

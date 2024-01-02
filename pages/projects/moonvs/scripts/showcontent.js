@@ -1,4 +1,4 @@
-const project = document.getElementById('content').innerHTML;
+const demo = document.getElementById('content').innerHTML;
 
 const tabs = document.getElementById('tabs').children;
 const content = document.getElementById('content');
@@ -10,8 +10,8 @@ function select(element) {
 
     element.classList.add('selected');
 
-    if (id === 'project'){
-        content.innerHTML = project;
+    if (id === 'demo'){
+        content.innerHTML = demo;
         return;
     }
 
@@ -32,7 +32,6 @@ function select(element) {
 
 function unselect() {
     Array.from(tabs).forEach(e => {
-        e.classList.add('unselected');
         e.classList.remove('selected');
     })
 }
