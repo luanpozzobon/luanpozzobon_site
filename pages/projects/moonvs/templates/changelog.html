@@ -1,16 +1,116 @@
 <div id="template">
-    <h1>The Changelog</h1>
-    <h2>v0.1.0-beta.2024-01</h2>
-    <p>Release Date: <strong>2024-01-01</strong></p>
+    <div id="changelog-container">
+        <h1>The Changelog</h1>
+        <section>
+            <h2 id="beta-0.2.0">v0.2.0-beta.2024-02</h2>
+            <p>Release Date: <strong>2024-02-01</strong></p>
+            <h3>Added</h3>
+            <ul>
+                <li>Rating of contents.</li>
+                <li>View of user's rating and average rating for each content.</li>
+                <li>Backend method 'addOrEditRating()' on RatingController and RatingService.</li>
+                <li>Backend DTO 'RateRequest'.</li>
+                <li>Backend DTO 'UserAccountRequest'.</li>
+                <li>Backend exception 'IllegalIdException'.</li>
+                <li>Backend Account methods 'getAccount' and 'updateUsernameAndOrEmail'.</li>
+                <li>'create()' methods on UserBuilder.</li>
+                <li>Copy Constructor on User entity.</li>
+                <li>'create()' methods on ContentBuilder.</li>
+                <li>Backend Content methods 'search', 'databaseSearch', 'tmdbSearch', 'viewContent',
+                    'viewDatabaseContent'
+                    and 'viewTmdbContent'.</li>
+                <li>SearchType enum.</li>
+                <li>Response DTO.</li>
+                <li>Backend Profile method 'getProfile'.</li>
+                <li>Backend Rating method 'getUserRatingList'.</li>
+                <li>Copy Constructor on Profile entity.</li>
+                <li>'create()' methods on Profilebuilder.</li>
+                <li>RequestEntity.</li>
+                <li>TmdbContent which replaces both TmdbMovie and TmdbTv.</li>
+                <li>TmdbContentDeserializer.</li>
+                <li>Added method getContent which replaces both viewMovie and viewSeries.</li>
+                <li>Added logout option.</li>
+            </ul>
 
-    <h3>Added</h3>
-    <ul>
-        <li>Creation of an account and authentication.</li>
-        <li>Creation of a user's profile, with a small text up to 255 characters.</li>
-        <li>Edition of the username and/or email.</li>
-        <li>Edition of user's password.</li>
-        <li>Deletion of user's account.</li>
-        <li>Search by Movies and Series.</li>
-        <li>View of informations about Movies and Series.</li>
-    </ul>
+            <h3>Changed</h3>
+            <ul>
+                <li>Logo moved to the form area on the Auth screen.</li>
+                <li>Changed forms background color on Auth screen.</li>
+                <li>Changed input fields color on Auth screen.</li>
+                <li>Changed effect on selected tab at Auth screen.</li>
+                <li>Changed input fields color on Account screen.</li>
+                <li>Changed input fields border.</li>
+                <li>Moved 'JustWatch' attribution only to 'Where to Watch?' section.</li>
+                <li>AccountController now performs basic validations.</li>
+                <li>Backend Account methods 'updatePassword' and 'deleteAccount'.</li>
+                <li>Backend Auth methods: 'login' and 'register'.</li>
+                <li>Backend Profile methods 'createProfile' and 'editProfile'.</li>
+                <li>Backend Rating methods 'addOrEditRating', 'getUserRating' and 'getAvgRating'.</li>
+                <li>Included 'page' and 'totalPages' field in TmdbResults.</li>
+                <li>The Tmdb Search now uses the user age, and includes results of more than one page.</li>
+                <li>Added method 'isOfLegalAge' in User entity.</li>
+                <li>The TMDB Content now receives directly a List of String for genres.</li>
+            </ul>
+
+            <h3>Deprecated</h3>
+            <ul>
+                <li>Backend method 'newRating()' from RatingController and RatingService.</li>
+                <li>Backend DTO 'RatingRequest'.</li>
+                <li>Backend DTO 'AccountRequest'.</li>
+                <li>Backend Account methods 'account', 'updateAccount', 'updatePassword', and 'deleteAccount'.</li>
+                <li>Backend DTO 'RegisterRequest' and 'RegisterResponse'.</li>
+                <li>UserBuilder method 'withRegisterDto'.</li>
+                <li>Backend Auth methods: 'login' and 'register'.</li>
+                <li>Backend Content methods 'internalSearch', 'externalSearch', 'internalContent' and 'externalContent'
+                </li>
+                <li>Backend Profile methods 'createProfile', 'seeProfile' and 'editProfile'.</li>
+                <li>Backend Rating method 'getAllUserRatings'.</li>
+                <li>ProfileBuilder constructors and methods 'createProfile' and 'editProfile'.</li>
+                <li>'search' method of TmdbService.</li>
+                <li>HttpRequestEntity.</li>
+                <li>TmdbMovie and TmdbTv.</li>
+                <li>viewMovie and viewSeries methods from TmdbService.</li>
+                <li>TmdbGenres.</li>
+            </ul>
+
+            <h3>Fixed</h3>
+            <ul>
+                <li>Fixed the URL to 'About MoonVs'.</li>
+                <li>Fixed replacement of blank spaces on the search methods!</li>
+                <li>External links now open on a blank tab.</li>
+                <li>Fixed bug of titles in list of watch providers.</li>
+                <li>Fixed NullPointerException on ProfileBuilder method 'withBio'.</li>
+                <li>Fixed bug that didn't allow to delete account with existing ratings.</li>
+                <li>Fixed bug that wouldn't allow to create new ratings.</li>
+            </ul>
+
+            <h2 id="beta-0.1.0">v0.1.0-beta.2024-01</h2>
+            <p>Release Date: <strong>2024-01-01</strong></p>
+
+            <h3>Added</h3>
+            <ul>
+                <li>Creation of an account and authentication.</li>
+                <li>Creation of a user's profile, with a small text up to 255 characters.</li>
+                <li>Edition of the username and/or email.</li>
+                <li>Edition of user's password.</li>
+                <li>Deletion of user's account.</li>
+                <li>Search by Movies and Series.</li>
+                <li>View of informations about Movies and Series.</li>
+            </ul>
+        </section>
+        <aside>
+            <h2>Jump Straight Where You Want!</h2>
+            <ul>
+                <li>Beta</li>
+                <ul>
+                    <a href="#beta-0.2.0">
+                        <li>v0.2.0</li>
+                    </a>
+                    <a href="#beta-0.1.0">
+                        <li>v0.1.0</li>
+                    </a>
+                </ul>
+            </ul>
+        </aside>
+    </div>
 </div>

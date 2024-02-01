@@ -30,6 +30,7 @@ header {
 
 header img {
     float: left;
+    padding-left: 10px;
 }
 
 header nav {
